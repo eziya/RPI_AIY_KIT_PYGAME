@@ -2,6 +2,10 @@
 Modified AIY Cloud Speech Example to play music files with pygame<br>
 Added Korean TTS features to speak Korean.<br>
 <br>
+gTTS: https://gtts.readthedocs.io/en/latest/ <br>
+Naver Clova Speech Synthesis:http://docs.ncloud.com/ko/naveropenapi_v3/speech/synthesis.html <br>
+Google Cloud Text-to-Speech: https://cloud.google.com/text-to-speech/docs/quickstart-client-libraries <br>
+
 https://blog.naver.com/eziya76/221425140936
 
 <a href="https://youtu.be/2W2csJFWHjI
